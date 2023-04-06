@@ -8,8 +8,8 @@ assignees: ''
 ---
 
 **Sanity Check**
-Have checked the existing issues to make sure it's not a duplicate?
-Have you gotten the relevant logs or error messages for the report?
+- Have I checked the existing issues to make sure it's not a duplicate?
+- Have I gotten the relevant logs or error messages for the report?
 
 **Description:**
 
